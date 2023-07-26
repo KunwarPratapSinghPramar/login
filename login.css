@@ -1,0 +1,25 @@
+.outer{
+    margin-left: 550px;
+    margin-top: 150px;
+    text-align: center;
+    background-color: indigo;
+    height: 220px;
+    width: 200px;
+}
+#main{
+    height: 150px;
+    width: 200px;
+background-color: olivedrab;
+
+}
+h1{
+    color: aliceblue;
+    
+}
+body{
+    background-color: peru;
+    background-image: url("ocean.jpg");
+    background-size: cover;
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+}
